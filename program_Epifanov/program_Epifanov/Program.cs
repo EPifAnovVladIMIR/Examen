@@ -6,10 +6,22 @@ using System.Threading.Tasks;
 
 namespace program_Epifanov
 {
-    class Program
+   public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            Console.WriteLine("Введите кол-во самолётов");
+            int count = Convert.ToInt32(Console.ReadLine());
+ 
+            PlaneControl plane = new PlaneControl(count);
+            plane.Fill();
+            plane.Sort();
+ 
+            Console.Read();     
+
         }
     }
 }
+                
+
+      
