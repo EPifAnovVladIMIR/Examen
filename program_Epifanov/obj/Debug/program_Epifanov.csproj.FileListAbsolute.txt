@@ -1,0 +1,7 @@
+C:\Users\stu-pkspk219\Source\Repos\Examen\program_Epifanov\program_Epifanov\obj\Debug\program_Epifanov.csprojResolveAssemblyReference.cache
+C:\Users\stu-pkspk219\Source\Repos\Examen\program_Epifanov\program_Epifanov\obj\Debug\program_Epifanov.csproj.CoreCompileInputs.cache
+C:\Users\stu-pkspk219\Source\Repos\Examen\program_Epifanov\program_Epifanov\bin\Debug\program_Epifanov.exe.config
+C:\Users\stu-pkspk219\Source\Repos\Examen\program_Epifanov\program_Epifanov\bin\Debug\program_Epifanov.exe
+C:\Users\stu-pkspk219\Source\Repos\Examen\program_Epifanov\program_Epifanov\bin\Debug\program_Epifanov.pdb
+C:\Users\stu-pkspk219\Source\Repos\Examen\program_Epifanov\program_Epifanov\obj\Debug\program_Epifanov.exe
+C:\Users\stu-pkspk219\Source\Repos\Examen\program_Epifanov\program_Epifanov\obj\Debug\program_Epifanov.pdb
